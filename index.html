@@ -768,10 +768,10 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 <a class="skip-link" href="#main">דלג לתוכן הראשי</a>
   <nav class="navbar" dir="rtl">
   <button class="mobile-toggle" id="mobileToggle" aria-label="Menu">
-    <svg style="display:block !important" class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
+    <svg class="hamburger-icon" width="24" height="24" viewBox="0 0 24 24" fill="none">
       <path d="M3 12h18M3 6h18M3 18h18" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
-    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display:none !important">
+    <svg class="close-icon" width="24" height="24" viewBox="0 0 24 24" fill="none" style="display: none;">
       <path d="M18 6L6 18M6 6l12 12" stroke="currentColor" stroke-width="2" stroke-linecap="round"></path>
     </svg>
   </button>
@@ -1600,13 +1600,13 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
 <section class="orm-testimonials" aria-labelledby="testimonials-heading" data-zappy-component="true" id="ai-section-1784999205960-ipifqqu">
   <div class="orm-testimonials__container">
     <div class="orm-testimonials__header">
-      <span class="orm-testimonials__badge">לקוחות ממליצים</span>
-      <h2 id="testimonials-heading" class="orm-testimonials__title">מה הלקוחות שלנו אומרים</h2>
+      <p class="zappy-editable"><span class="orm-testimonials__badge">לקוחות ממליצים</span>
+      </p><h2 id="testimonials-heading" class="orm-testimonials__title">מה הלקוחות שלנו אומרים</h2>
       <p class="orm-testimonials__subtitle">אלפי לקוחות מרוצים כבר בחרו באורמובייל לתיקון המכשירים הניידים שלהם. הנה כמה מהם:</p>
     </div>
-    <div class="orm-testimonials__grid">
+    <div class="orm-testimonials__grid zappy-preserve-css-grid" id="zappy-auto-grid-1784999212932-734fhk" data-zappy-auto-grid="true" data-original-item-width="561" data-original-gap="28px" style="--zappy-grid-cols: repeat(auto-fit, minmax(min(100%, 480px), 1fr)); grid-template-columns: repeat(auto-fit, minmax(min(100%, 480px), 1fr)); display: grid; align-items: stretch !important;" data-zappy-explicit-columns="true">
       <!-- Card 1 -->
-      <article class="orm-testimonial-card">
+      <article class="orm-testimonial-card" data-grid-item-index="0">
         <div class="orm-testimonial-card__rating" aria-label="דירוג 5 מתוך 5 כוכבים">
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
@@ -1618,19 +1618,19 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
           <p>"הגעתי עם מסך שבור באייפון 14 שלי, ובתוך חצי שעה הוא היה כמו חדש. שירות אדיב, מקצועי ובמחיר הוגן. אין ספק שאחזור לפה שוב!"</p>
         </blockquote>
         <div class="orm-testimonial-card__author">
-          <img data-placeholder="testimonial-author-1" data-context="Professional headshot of Israeli man in his 30s, clean-shaven, wearing casual business attire, warm smile, outdoor urban background with blurred bokeh" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2756%27 height=%2756%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27%3E%3C/text%3E%3C/svg%3E" alt="דיוקן של דניאל כהן" class="orm-testimonial-card__avatar" width="56" height="56" loading="lazy" decoding="async" fetchpriority="low">
+          <img data-placeholder="testimonial-author-1" data-context="Professional headshot of Israeli man in his 30s, clean-shaven, wearing casual business attire, warm smile, outdoor urban background with blurred bokeh" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2756%27 height=%2756%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27%3E%3C/text%3E%3C/svg%3E" alt="דיוקן של דניאל כהן" class="orm-testimonial-card__avatar" data-zappy-editable-image="true" width="56" height="56" loading="lazy" data-element-type="image" data-element-id="img-1784999212870-zrqp670ka" style="" decoding="async" fetchpriority="low">
           <div class="orm-testimonial-card__author-info">
             <strong class="orm-testimonial-card__name">דניאל כהן</strong>
             <span class="orm-testimonial-card__company">יזם הייטק</span>
           </div>
-          <svg class="orm-testimonial-card__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <svg class="orm-testimonial-card__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true" data-element-type="icon" data-element-id="icon-1784999212868-zsj0zhdcq" data-icon-type="svg">
             <path d="M4.583 17.321C3.553 16.227 3 15.002 3 13.011c0-3.438 2.454-6.344 5.77-7.647l.607 1.877C6.918 8.285 5.46 10.094 5.46 12.07c0 .772.258 1.424.774 1.956.516.532 1.163.798 1.942.798.77 0 1.426-.266 1.97-.798.543-.532.815-1.184.815-1.956 0-.772-.272-1.424-.815-1.956-.544-.532-1.2-.798-1.97-.798V7.45c1.294 0 2.4.463 3.318 1.39.918.926 1.377 2.03 1.377 3.313 0 1.283-.459 2.387-1.377 3.313-.918.927-2.024 1.39-3.318 1.39-1.275 0-2.375-.465-3.299-1.395v-.14h-.294Zm9.706 0c-1.03-1.094-1.583-2.319-1.583-4.31 0-3.438 2.454-6.344 5.77-7.647l.607 1.877c-2.459 1.044-3.917 2.853-3.917 4.829 0 .772.258 1.424.774 1.956.516.532 1.163.798 1.942.798.77 0 1.426-.266 1.97-.798.543-.532.815-1.184.815-1.956 0-.772-.272-1.424-.815-1.956-.544-.532-1.2-.798-1.97-.798V7.45c1.294 0 2.4.463 3.318 1.39.918.926 1.377 2.03 1.377 3.313 0 1.283-.459 2.387-1.377 3.313-.918.927-2.024 1.39-3.318 1.39-1.275 0-2.375-.465-3.299-1.395v-.14h-.294Z" fill="currentColor"></path>
           </svg>
         </div>
       </article>
 
       <!-- Card 2 -->
-      <article class="orm-testimonial-card">
+      <article class="orm-testimonial-card" data-grid-item-index="1">
         <div class="orm-testimonial-card__rating" aria-label="דירוג 5 מתוך 5 כוכבים">
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
@@ -1639,22 +1639,22 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
         </div>
         <blockquote class="orm-testimonial-card__quote">
-          <p>"הסוללה של הגלקסי שלי החזיקה פחות משעתיים. באורמובייל החליפו אותה תוך 20 דקות, ועכשיו הטלפון מחזיק יומיים שלמים! ממליץ בחום."</p>
+          <p style="">"הסוללה של הגלקסי שלי החזיקה פחות משעתיים. באורמובייל החליפו אותה תוך 20 דקות, ועכשיו הטלפון מחזיק יומיים שלמים! ממליצה בחום."</p>
         </blockquote>
         <div class="orm-testimonial-card__author">
-          <img data-placeholder="testimonial-author-2" data-context="Professional headshot of Israeli woman in her late 20s, shoulder-length dark hair, friendly expression, wearing a light blouse, blurred coffee shop background" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2756%27 height=%2756%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27%3E%3C/text%3E%3C/svg%3E" alt="דיוקן של מיכל לוי" class="orm-testimonial-card__avatar" width="56" height="56" loading="lazy" decoding="async" fetchpriority="low">
+          <img data-placeholder="testimonial-author-2" data-context="Professional headshot of Israeli woman in her late 20s, shoulder-length dark hair, friendly expression, wearing a light blouse, blurred coffee shop background" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2756%27 height=%2756%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27%3E%3C/text%3E%3C/svg%3E" alt="דיוקן של מיכל לוי" class="orm-testimonial-card__avatar" data-zappy-editable-image="true" width="56" height="56" loading="lazy" data-element-type="image" data-element-id="img-1784999212870-hx52mjosd" style="" decoding="async" fetchpriority="low">
           <div class="orm-testimonial-card__author-info">
             <strong class="orm-testimonial-card__name">מיכל לוי</strong>
             <span class="orm-testimonial-card__company">מעצבת גרפית</span>
           </div>
-          <svg class="orm-testimonial-card__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <svg class="orm-testimonial-card__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true" data-element-type="icon" data-element-id="icon-1784999212868-4g5685029" data-icon-type="svg">
             <path d="M4.583 17.321C3.553 16.227 3 15.002 3 13.011c0-3.438 2.454-6.344 5.77-7.647l.607 1.877C6.918 8.285 5.46 10.094 5.46 12.07c0 .772.258 1.424.774 1.956.516.532 1.163.798 1.942.798.77 0 1.426-.266 1.97-.798.543-.532.815-1.184.815-1.956 0-.772-.272-1.424-.815-1.956-.544-.532-1.2-.798-1.97-.798V7.45c1.294 0 2.4.463 3.318 1.39.918.926 1.377 2.03 1.377 3.313 0 1.283-.459 2.387-1.377 3.313-.918.927-2.024 1.39-3.318 1.39-1.275 0-2.375-.465-3.299-1.395v-.14h-.294Zm9.706 0c-1.03-1.094-1.583-2.319-1.583-4.31 0-3.438 2.454-6.344 5.77-7.647l.607 1.877c-2.459 1.044-3.917 2.853-3.917 4.829 0 .772.258 1.424.774 1.956.516.532 1.163.798 1.942.798.77 0 1.426-.266 1.97-.798.543-.532.815-1.184.815-1.956 0-.772-.272-1.424-.815-1.956-.544-.532-1.2-.798-1.97-.798V7.45c1.294 0 2.4.463 3.318 1.39.918.926 1.377 2.03 1.377 3.313 0 1.283-.459 2.387-1.377 3.313-.918.927-2.024 1.39-3.318 1.39-1.275 0-2.375-.465-3.299-1.395v-.14h-.294Z" fill="currentColor"></path>
           </svg>
         </div>
       </article>
 
       <!-- Card 3 -->
-      <article class="orm-testimonial-card">
+      <article class="orm-testimonial-card" data-grid-item-index="2">
         <div class="orm-testimonial-card__rating" aria-label="דירוג 5 מתוך 5 כוכבים">
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
@@ -1666,19 +1666,19 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
           <p>"נתקעתי בלי אייפד תקין יום לפני פגישה חשובה. אורמובייל הצילו אותי – תיקון מהיר תוך שעה, והכל עובד מושלם. שירות מעל ומעבר!"</p>
         </blockquote>
         <div class="orm-testimonial-card__author">
-          <img data-placeholder="testimonial-author-3" data-context="Professional headshot of Israeli man in his 40s, salt-and-pepper hair, confident smile, wearing smart casual blazer, bright natural lighting, modern office environment" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2756%27 height=%2756%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27%3E%3C/text%3E%3C/svg%3E" alt="דיוקן של יוסי אברהם" class="orm-testimonial-card__avatar" width="56" height="56" loading="lazy" decoding="async" fetchpriority="low">
+          <img data-placeholder="testimonial-author-3" data-context="Professional headshot of Israeli man in his 40s, salt-and-pepper hair, confident smile, wearing smart casual blazer, bright natural lighting, modern office environment" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2756%27 height=%2756%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27%3E%3C/text%3E%3C/svg%3E" alt="דיוקן של יוסי אברהם" class="orm-testimonial-card__avatar" data-zappy-editable-image="true" width="56" height="56" loading="lazy" data-element-type="image" data-element-id="img-1784999212870-adppiez40" style="" decoding="async" fetchpriority="low">
           <div class="orm-testimonial-card__author-info">
             <strong class="orm-testimonial-card__name">יוסי אברהם</strong>
             <span class="orm-testimonial-card__company">עורך דין</span>
           </div>
-          <svg class="orm-testimonial-card__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <svg class="orm-testimonial-card__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true" data-element-type="icon" data-element-id="icon-1784999212868-lf2kzmtdt" data-icon-type="svg">
             <path d="M4.583 17.321C3.553 16.227 3 15.002 3 13.011c0-3.438 2.454-6.344 5.77-7.647l.607 1.877C6.918 8.285 5.46 10.094 5.46 12.07c0 .772.258 1.424.774 1.956.516.532 1.163.798 1.942.798.77 0 1.426-.266 1.97-.798.543-.532.815-1.184.815-1.956 0-.772-.272-1.424-.815-1.956-.544-.532-1.2-.798-1.97-.798V7.45c1.294 0 2.4.463 3.318 1.39.918.926 1.377 2.03 1.377 3.313 0 1.283-.459 2.387-1.377 3.313-.918.927-2.024 1.39-3.318 1.39-1.275 0-2.375-.465-3.299-1.395v-.14h-.294Zm9.706 0c-1.03-1.094-1.583-2.319-1.583-4.31 0-3.438 2.454-6.344 5.77-7.647l.607 1.877c-2.459 1.044-3.917 2.853-3.917 4.829 0 .772.258 1.424.774 1.956.516.532 1.163.798 1.942.798.77 0 1.426-.266 1.97-.798.543-.532.815-1.184.815-1.956 0-.772-.272-1.424-.815-1.956-.544-.532-1.2-.798-1.97-.798V7.45c1.294 0 2.4.463 3.318 1.39.918.926 1.377 2.03 1.377 3.313 0 1.283-.459 2.387-1.377 3.313-.918.927-2.024 1.39-3.318 1.39-1.275 0-2.375-.465-3.299-1.395v-.14h-.294Z" fill="currentColor"></path>
           </svg>
         </div>
       </article>
 
       <!-- Card 4 -->
-      <article class="orm-testimonial-card">
+      <article class="orm-testimonial-card" data-grid-item-index="3">
         <div class="orm-testimonial-card__rating" aria-label="דירוג 5 מתוך 5 כוכבים">
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
           <span class="orm-testimonial-card__star" aria-hidden="true">★</span>
@@ -1690,12 +1690,12 @@ body:has(.zappy-announcement-bar) .navbar:not(.zappy-catalog-menu):not(.mobile-s
           <p>"הבן שלי הפיל את האייפון למים, חשבתי שהלך. אורמובייל ביצעו ניקוי ותיקון מעמיק, והטלפון חזר לעבוד כאילו כלום לא קרה. תודה ענקית!"</p>
         </blockquote>
         <div class="orm-testimonial-card__author">
-          <img data-placeholder="testimonial-author-4" data-context="Professional headshot of Israeli woman in her mid-30s, curly brown hair, genuine smile, wearing a colorful scarf, soft natural light, blurred residential background" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2756%27 height=%2756%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27%3E%3C/text%3E%3C/svg%3E" alt="דיוקן של רונית מזרחי" class="orm-testimonial-card__avatar" width="56" height="56" loading="lazy" decoding="async" fetchpriority="low">
+          <img data-placeholder="testimonial-author-4" data-context="Professional headshot of Israeli woman in her mid-30s, curly brown hair, genuine smile, wearing a colorful scarf, soft natural light, blurred residential background" src="data:image/svg+xml,%3Csvg xmlns=%27http://www.w3.org/2000/svg%27 width=%2756%27 height=%2756%27%3E%3Cdefs%3E%3ClinearGradient id=%27grad%27 x1=%270%25%27 y1=%270%25%27 x2=%27100%25%27 y2=%27100%25%27%3E%3Cstop offset=%270%25%27 style=%27stop-color:%23FF0083;stop-opacity:1%27 /%3E%3Cstop offset=%27100%25%27 style=%27stop-color:%23FF008320;stop-opacity:1%27 /%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width=%27100%25%27 height=%27100%25%27 fill=%27url(%23grad)%27/%3E%3Ctext x=%2750%25%27 y=%2750%25%27 font-family=%27Arial, sans-serif%27 font-size=%2710%27 fill=%27white%27 text-anchor=%27middle%27 dy=%27.3em%27%3E%3C/text%3E%3C/svg%3E" alt="דיוקן של רונית מזרחי" class="orm-testimonial-card__avatar" data-zappy-editable-image="true" width="56" height="56" loading="lazy" data-element-type="image" data-element-id="img-1784999212870-oy83jk8ty" style="" decoding="async" fetchpriority="low">
           <div class="orm-testimonial-card__author-info">
             <strong class="orm-testimonial-card__name">רונית מזרחי</strong>
             <span class="orm-testimonial-card__company">מורה</span>
           </div>
-          <svg class="orm-testimonial-card__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+          <svg class="orm-testimonial-card__icon" width="24" height="24" viewBox="0 0 24 24" fill="none" aria-hidden="true" data-element-type="icon" data-element-id="icon-1784999212868-rrulfgiw1" data-icon-type="svg">
             <path d="M4.583 17.321C3.553 16.227 3 15.002 3 13.011c0-3.438 2.454-6.344 5.77-7.647l.607 1.877C6.918 8.285 5.46 10.094 5.46 12.07c0 .772.258 1.424.774 1.956.516.532 1.163.798 1.942.798.77 0 1.426-.266 1.97-.798.543-.532.815-1.184.815-1.956 0-.772-.272-1.424-.815-1.956-.544-.532-1.2-.798-1.97-.798V7.45c1.294 0 2.4.463 3.318 1.39.918.926 1.377 2.03 1.377 3.313 0 1.283-.459 2.387-1.377 3.313-.918.927-2.024 1.39-3.318 1.39-1.275 0-2.375-.465-3.299-1.395v-.14h-.294Zm9.706 0c-1.03-1.094-1.583-2.319-1.583-4.31 0-3.438 2.454-6.344 5.77-7.647l.607 1.877c-2.459 1.044-3.917 2.853-3.917 4.829 0 .772.258 1.424.774 1.956.516.532 1.163.798 1.942.798.77 0 1.426-.266 1.97-.798.543-.532.815-1.184.815-1.956 0-.772-.272-1.424-.815-1.956-.544-.532-1.2-.798-1.97-.798V7.45c1.294 0 2.4.463 3.318 1.39.918.926 1.377 2.03 1.377 3.313 0 1.283-.459 2.387-1.377 3.313-.918.927-2.024 1.39-3.318 1.39-1.275 0-2.375-.465-3.299-1.395v-.14h-.294Z" fill="currentColor"></path>
           </svg>
         </div>
