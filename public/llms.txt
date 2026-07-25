@@ -1,0 +1,86 @@
+# אורמובייל — Generative Engine Optimization Map
+
+> A mobile phone repair business that handles all types of malfunctions and technical issues across various device models and brands. The business positions itself as a comprehensive repair solution, suggesting broad expertise and versatility in fixing smartphones and mobile devices.
+
+---
+
+## Pages
+
+### בית
+https://-250a4265.zappy5.app
+מחפשים מעבדה לתיקון טלפונים ניידים? אורמובייל מתמחים בכל התקלות והדגמים, עם שירות מהיר ואמין. הצילו את המכשיר שלכם עוד היום וקבלו אותו כמו חדש!
+
+### שירותים
+https://-250a4265.zappy5.app/services
+מסך מנופץ, סוללה חלשה או בעיות שמע? גלו את מגוון שירותי התיקונים המקצועיים שלנו לכל דגמי הטלפונים. פתרון מושלם לכל תקלה, עם אחריות מלאה על העבודה.
+
+### אודות
+https://-250a4265.zappy5.app/about
+הכירו את הצוות שמאחורי התיקונים המושלמים. אורמובייל מביאה ניסיון עשיר ואהבה אמיתית לטכנולוגיה לכל מכשיר. בואו לגלות למה אנחנו הבחירה המועדפת לתיקון מכשירים ניידים.
+
+### צור קשר
+https://-250a4265.zappy5.app/contact
+אל תתנו לתקלה להשבית אתכם. צרו קשר עם אורמובייל עוד היום לקבלת ייעוץ חינם והצעת מחיר משתלמת לתיקון המכשיר שלכם. אנחנו כאן כדי לעזור לכם לחזור לשגרה במהירות.
+
+### תודה - אורמובייל
+https://-250a4265.zappy5.app/thank-you
+אורמובייל - תודה - אורמובייל
+
+## Legal & Policy
+
+### Privacy Policy
+https://-250a4265.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-250a4265.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-250a4265.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-250a4265.zappy5.app/contact
+- Endpoint: https://-250a4265.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אורמובייל
+A mobile phone repair business that handles all types of malfunctions and technical issues across various device models and brands. The business positions itself as a comprehensive repair solution, suggesting broad expertise and versatility in fixing smartphones and mobile devices.
+
+## Services/Products
+- תיקון סלולר
+- תיקון כל סוגי התקלות
+
+## Target Audience
+- חובבי טכנולוגיה
+- מקצוענים עירוניים
+- סטודנטים משתמשי מובייל
+
+## Industry
+Mobile Phone Repair
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-250a4265.zappy5.app/sitemap.xml
+- Robots: https://-250a4265.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-250a4265.zappy5.app/llms-full.txt
