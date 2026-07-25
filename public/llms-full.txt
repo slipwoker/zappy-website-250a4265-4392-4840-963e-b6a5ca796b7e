@@ -2,13 +2,13 @@
 
 A mobile phone repair business that handles all types of malfunctions and technical issues across various device models and brands. The business positions itself as a comprehensive repair solution, suggesting broad expertise and versatility in fixing smartphones and mobile devices.
 
-Source: https://example.com
+Source: https://ormobile.zappy5.app
 
 ---
 
 ## תיקון מכשירים ניידים בזמן שיא — אורמובייל
 
-URL: https://example.com
+URL: https://ormobile.zappy5.app
 Description: מחפשים מעבדה לתיקון טלפונים ניידים? אורמובייל מתמחים בכל התקלות והדגמים, עם שירות מהיר ואמין. הצילו את המכשיר שלכם עוד היום וקבלו אותו כמו חדש!
 
 תיקון מכשירים ניידים בזמן שיא — אורמובייל
@@ -422,6 +422,7 @@ Samsung Galaxy S23
 
 
 
+
 לקוחות ממליצים
 
 ## מה הלקוחות שלנו אומרים
@@ -466,7 +467,7 @@ Samsung Galaxy S23
 
 
 
-"הסוללה של הגלקסי שלי החזיקה פחות משעתיים. באורמובייל החליפו אותה תוך 20 דקות, ועכשיו הטלפון מחזיק יומיים שלמים! ממליץ בחום."
+"הסוללה של הגלקסי שלי החזיקה פחות משעתיים. באורמובייל החליפו אותה תוך 20 דקות, ועכשיו הטלפון מחזיק יומיים שלמים! ממליצה בחום."
 
 
 
@@ -622,7 +623,7 @@ Samsung Galaxy S23
 
 ## מסך שבור? כל התיקונים במקום אחד — אורמובייל
 
-URL: https://example.com/services
+URL: https://ormobile.zappy5.app/services
 Description: מסך מנופץ, סוללה חלשה או בעיות שמע? גלו את מגוון שירותי התיקונים המקצועיים שלנו לכל דגמי הטלפונים. פתרון מושלם לכל תקלה, עם אחריות מלאה על העבודה.
 
 מסך שבור? כל התיקונים במקום אחד — אורמובייל
@@ -1147,7 +1148,7 @@ iPhone, Samsung, Xiaomi, Google Pixel, OnePlus וכל השאר. צוות הטכ�
 
 ## המומחים שמחזירים לנייד שלכם חיים — אורמובייל
 
-URL: https://example.com/about
+URL: https://ormobile.zappy5.app/about
 Description: הכירו את הצוות שמאחורי התיקונים המושלמים. אורמובייל מביאה ניסיון עשיר ואהבה אמיתית לטכנולוגיה לכל מכשיר. בואו לגלות למה אנחנו הבחירה המועדפת לתיקון מכשירים ניידים.
 
 המומחים שמחזירים לנייד שלכם חיים — אורמובייל
@@ -1600,7 +1601,7 @@ Description: הכירו את הצוות שמאחורי התיקונים המוש
 
 ## הטלפון שלכם זקוק לנו? צרו קשר עכשיו — אורמובייל
 
-URL: https://example.com/contact
+URL: https://ormobile.zappy5.app/contact
 Description: אל תתנו לתקלה להשבית אתכם. צרו קשר עם אורמובייל עוד היום לקבלת ייעוץ חינם והצעת מחיר משתלמת לתיקון המכשיר שלכם. אנחנו כאן כדי לעזור לכם לחזור לשגרה במהירות.
 
 הטלפון שלכם זקוק לנו? צרו קשר עכשיו — אורמובייל
@@ -1926,7 +1927,7 @@ Description: אל תתנו לתקלה להשבית אתכם. צרו קשר עם 
 
 ## מדיניות פרטיות
 
-URL: https://example.com/privacy
+URL: https://ormobile.zappy5.app/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2189,7 +2190,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://example.com/accessibility
+URL: https://ormobile.zappy5.app/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2461,7 +2462,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://example.com/terms
+URL: https://ormobile.zappy5.app/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2752,7 +2753,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - אורמובייל
 
-URL: https://example.com/thank-you
+URL: https://ormobile.zappy5.app/thank-you
 Description: אורמובייל - תודה - אורמובייל
 
 תודה - אורמובייל
