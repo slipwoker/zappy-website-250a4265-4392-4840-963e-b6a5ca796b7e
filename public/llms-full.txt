@@ -2,13 +2,13 @@
 
 A mobile phone repair business that handles all types of malfunctions and technical issues across various device models and brands. The business positions itself as a comprehensive repair solution, suggesting broad expertise and versatility in fixing smartphones and mobile devices.
 
-Source: https://-250a4265.zappy5.app
+Source: https://example.com
 
 ---
 
 ## תיקון מכשירים ניידים בזמן שיא — אורמובייל
 
-URL: https://-250a4265.zappy5.app
+URL: https://example.com
 Description: מחפשים מעבדה לתיקון טלפונים ניידים? אורמובייל מתמחים בכל התקלות והדגמים, עם שירות מהיר ואמין. הצילו את המכשיר שלכם עוד היום וקבלו אותו כמו חדש!
 
 תיקון מכשירים ניידים בזמן שיא — אורמובייל
@@ -509,7 +509,7 @@ Samsung Galaxy S23
 
 ## מסך שבור? כל התיקונים במקום אחד — אורמובייל
 
-URL: https://-250a4265.zappy5.app/services
+URL: https://example.com/services
 Description: מסך מנופץ, סוללה חלשה או בעיות שמע? גלו את מגוון שירותי התיקונים המקצועיים שלנו לכל דגמי הטלפונים. פתרון מושלם לכל תקלה, עם אחריות מלאה על העבודה.
 
 מסך שבור? כל התיקונים במקום אחד — אורמובייל
@@ -1034,7 +1034,7 @@ iPhone, Samsung, Xiaomi, Google Pixel, OnePlus וכל השאר. צוות הטכ�
 
 ## המומחים שמחזירים לנייד שלכם חיים — אורמובייל
 
-URL: https://-250a4265.zappy5.app/about
+URL: https://example.com/about
 Description: הכירו את הצוות שמאחורי התיקונים המושלמים. אורמובייל מביאה ניסיון עשיר ואהבה אמיתית לטכנולוגיה לכל מכשיר. בואו לגלות למה אנחנו הבחירה המועדפת לתיקון מכשירים ניידים.
 
 המומחים שמחזירים לנייד שלכם חיים — אורמובייל
@@ -1487,7 +1487,7 @@ Description: הכירו את הצוות שמאחורי התיקונים המוש
 
 ## הטלפון שלכם זקוק לנו? צרו קשר עכשיו — אורמובייל
 
-URL: https://-250a4265.zappy5.app/contact
+URL: https://example.com/contact
 Description: אל תתנו לתקלה להשבית אתכם. צרו קשר עם אורמובייל עוד היום לקבלת ייעוץ חינם והצעת מחיר משתלמת לתיקון המכשיר שלכם. אנחנו כאן כדי לעזור לכם לחזור לשגרה במהירות.
 
 הטלפון שלכם זקוק לנו? צרו קשר עכשיו — אורמובייל
@@ -1813,7 +1813,7 @@ Description: אל תתנו לתקלה להשבית אתכם. צרו קשר עם 
 
 ## מדיניות פרטיות
 
-URL: https://-250a4265.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -2077,7 +2077,7 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 ## הצהרת נגישות
 
-URL: https://-250a4265.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -2350,7 +2350,7 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 ## תנאי שימוש
 
-URL: https://-250a4265.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -2642,7 +2642,7 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 ## תודה - אורמובייל
 
-URL: https://-250a4265.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: אורמובייל - תודה - אורמובייל
 
 תודה - אורמובייל
