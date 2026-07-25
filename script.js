@@ -1593,6 +1593,10 @@ if (document.readyState === 'complete') {
 })();
 
 
+/* Added Component Script */
+// No JavaScript required for this section.
+
+
 /* ZAPPY_PUBLISHED_LIGHTBOX_RUNTIME */
 (function(){
   try {
